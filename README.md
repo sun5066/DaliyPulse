@@ -5,4 +5,4 @@
 - [Amper Build Tool](https://github.com/JetBrains/amper)
 - Kotlin MultiPlatform
 - Compose MultiPlatform
-- [New Api](https://newsapi.org)
+- [News Api](https://newsapi.org)

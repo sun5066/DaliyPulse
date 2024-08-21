@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "gradle",
+            "name": "Generate API Key",
+            "tasks": ["generateApiKey"],
+        },
+        {
+            "type": "kmp-app",
+            "name": "Kmp-app configuration",
+            "module": "DailyPulse.iosApp.iosAppMain"
+        },
+        {
+            "type": "android-app",
+            "name": "Android-app configuration",
+            "module": "DailyPulse.androidApp.main"
+        }
+    ]
+}
